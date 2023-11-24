@@ -1,0 +1,7 @@
+D:\Main File\桌面\VS Learning\Debug\Debug\bin\Debug\Debug.exe.config
+D:\Main File\桌面\VS Learning\Debug\Debug\bin\Debug\Debug.exe
+D:\Main File\桌面\VS Learning\Debug\Debug\bin\Debug\Debug.pdb
+D:\Main File\桌面\VS Learning\Debug\Debug\obj\Debug\Debug.csproj.AssemblyReference.cache
+D:\Main File\桌面\VS Learning\Debug\Debug\obj\Debug\Debug.csproj.CoreCompileInputs.cache
+D:\Main File\桌面\VS Learning\Debug\Debug\obj\Debug\Debug.exe
+D:\Main File\桌面\VS Learning\Debug\Debug\obj\Debug\Debug.pdb

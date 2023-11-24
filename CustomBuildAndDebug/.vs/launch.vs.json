@@ -1,0 +1,17 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "bin\\hello.exe",
+      "name": "hello.exe"
+    },
+    {
+      "type": "default",
+      "project": "bin\\hello.exe",
+      "name": "hello.exe a1",
+      "args": [ "a1" ]
+    }
+  ]
+}

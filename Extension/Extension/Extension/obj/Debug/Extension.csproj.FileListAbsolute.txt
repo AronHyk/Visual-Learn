@@ -1,0 +1,6 @@
+D:\Main File\桌面\VS Learning\Extension\Extension\Extension\bin\Debug\Extension.dll
+D:\Main File\桌面\VS Learning\Extension\Extension\Extension\bin\Debug\Extension.pdb
+D:\Main File\桌面\VS Learning\Extension\Extension\Extension\obj\Debug\Extension.csproj.AssemblyReference.cache
+D:\Main File\桌面\VS Learning\Extension\Extension\Extension\obj\Debug\Extension.csproj.CoreCompileInputs.cache
+D:\Main File\桌面\VS Learning\Extension\Extension\Extension\obj\Debug\Extension.dll
+D:\Main File\桌面\VS Learning\Extension\Extension\Extension\obj\Debug\Extension.pdb
